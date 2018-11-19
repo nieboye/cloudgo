@@ -37,3 +37,5 @@
  - Transfer rate: 传输的平均速率
  - Connection Times: 表内描述了连接、处理、等待过程中和整个过程所消耗的最小、平均、中位、最大时间
  - Percentage of the requests served within a certain time:  一定时间内服务了的请求数所占的百分比
+### 参考资料
+ [HTTP 协议 与 golang web 应用服务](https://blog.csdn.net/pmlpml/article/details/78404838)
